@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.0] - 2025-10-29
+
+### Added
+- Console UI to run and demonstrate the application.
+
 ## [0.2.0] - 2025-09-20
 
 ### Added
