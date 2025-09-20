@@ -1,4 +1,4 @@
-﻿import java.util.List;
+import java.util.List;
 
 public class Album {
     private String title;
@@ -15,5 +15,8 @@ public class Album {
         return releaseYear;
     }
 
-    // Другие геттеры по необходимости
+    public String getTitle()
+    {
+        return  title;
+    }
 }

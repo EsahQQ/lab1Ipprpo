@@ -1,4 +1,4 @@
-﻿public class Song {
+public class Song {
     private String title;
     private Artist artist;
 
