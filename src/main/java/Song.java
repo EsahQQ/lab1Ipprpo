@@ -13,6 +13,6 @@
 
     @Override
     public String toString() {
-        return "Song{" + "title='" + title + '\'' + ", artist=" + artist.getName() + '}';
+        return title + " by " + artist.getName(); // Другая новая версия
     }
 }
